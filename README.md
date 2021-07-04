@@ -13,4 +13,4 @@ Url: https://www.kaggle.com/andrewmvd/medical-mnist
 ![alt text](https://github.com/splAcharya/Transfer_Learning_Comparision/blob/main/images/Loss_Comparision.jpg) <br/>
 
 ## Accuracy & Loss on Test Set
-![alt text](https://github.com/splAcharya/Transfer_Learning_Comparision/blob/main/images/Comparison_Table.jpg) <br/>
+![alt text](https://github.com/splAcharya/Transfer_Learning_Comparision/blob/main/images/Test_Comparision.jpg) <br/>
