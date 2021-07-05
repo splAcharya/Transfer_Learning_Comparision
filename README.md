@@ -1,5 +1,8 @@
 # Transfer_Learning_Comparision
-Comparision of DNN Models
+## Medical MNIST Classifcation
+* Applied transfer learning to classify medical imaging dataset using tensorflow and keras.
+* Used CNN architechtures: Vgg-19, Resnet-50, Xception, MobileNet, EfficentNet.
+
 <br/>
 
 ## Dataset Used: Medical Mnist
@@ -14,3 +17,4 @@ Url: https://www.kaggle.com/andrewmvd/medical-mnist
 
 ## Accuracy & Loss on Test Set
 ![alt text](https://github.com/splAcharya/Transfer_Learning_Comparision/blob/main/images/Test_Comparision.jpg) <br/>
+
