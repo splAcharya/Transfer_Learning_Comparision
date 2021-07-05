@@ -1,7 +1,7 @@
 # Transfer_Learning_Comparision
 ## Medical MNIST Classifcation
-* Applied transfer learning to classify medical imaging dataset using tensorflow and keras in google colab.
-* Used CNN architechtures: Vgg-19, Resnet-50, Xception, MobileNet, EfficentNet.
+* Applied transfer learning to classify medical imaging dataset using tensorflow-keras in google colab.
+* Implemented CNN architectures such as Vgg19, Resnet50, Xception, MobileNet and EfficentNet using functional Api.
 
 <br/>
 
